@@ -1,0 +1,32 @@
+/* div{
+  background-color: pink;
+  display: inline;
+}
+button{
+  display: block;
+} */
+
+/* div{
+  width: 100px;
+  height: 100px;
+  margin: 25px;
+  padding: 25px;
+  display: inline; // cannot set width or height
+} */
+
+div{
+  width: 100px;
+  height: 100px;
+  margin: 25px;
+  padding: 25px;
+  display: inline-block;
+}
+
+#myDiv{
+  background-color: rgba(255, 0 , 0, 0.7);
+}
+
+/* #box2{
+  display: none;
+  visibility: hidden;
+} */
