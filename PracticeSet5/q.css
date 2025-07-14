@@ -1,0 +1,11 @@
+#myDiv{
+  height: 100px;
+  width: 100px;
+  background-image: url("eifel_photo.jpg");
+  background-size: cover;
+  position: fixed ;
+  right: 0;
+  bottom: 0;
+
+
+}
