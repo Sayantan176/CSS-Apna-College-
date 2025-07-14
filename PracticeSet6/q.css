@@ -1,0 +1,15 @@
+div ul{
+  background-color: #ffc0cb;
+  display: flex;
+  justify-content: space-evenly;
+}
+
+a{
+  text-decoration: none;
+  color: black;
+}
+
+li{
+  list-style-type: none;
+  background-color: aqua;
+ }

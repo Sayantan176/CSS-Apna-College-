@@ -1,0 +1,18 @@
+/* align-items - used to align along cross axis */
+div{
+  border: 2px solid black;
+}
+
+#parent{
+  height: 300px;
+  width: 300px;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center; 
+}
+
+#child{
+  height: 100px;
+  width: 100px;
+}
