@@ -1,8 +1,15 @@
-# CSS-Apna-College-
-This is a detailed repository which includes all of the topics taught in the CSS Course from Apna College on YouTube. 
-Guide to this repository:
+📘 CSS Course – Apna College (YouTube)
+This repository is a comprehensive resource that covers all the topics taught in the CSS Course by Apna College on YouTube. It’s structured for easy navigation and hands-on practice.
 
-1. Each HTML file has a comment at the start desccribing the content of the file.
-2. THe CSS file will have the number of the HTML file atached on its title. Ex: 'index2.html' will have the CSS file 'style2.css'.
-3. The practice sets containing the HTML files and their respective CSS files are kept inside separate folders.
-4. The final project i.e. the Amazon Clone is stored in the folder named 'Project'.
+📁 Repository Structure:
+HTML Files:
+Each HTML file begins with a comment describing the content and purpose of the file.
+
+CSS Files:
+CSS files are named according to the corresponding HTML file. For example, index2.html will use style2.css.
+
+Practice Sets:
+All practice exercises (HTML + CSS files) are organized into individual folders for better clarity.
+
+Final Project:
+The complete Amazon Clone project (built during the course) is located in the Project folder.
